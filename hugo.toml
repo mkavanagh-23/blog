@@ -1,0 +1,5 @@
+baseURL = 'https://matthewkavanagh,us/'
+languageCode = 'en-us'
+title = 'Matthew Kavanagh Personal Blog'
+theme = 'ananke'
+publishDir = "/var/www/blog/public"
