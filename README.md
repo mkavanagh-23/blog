@@ -6,16 +6,10 @@ A personal tech blog built and auto-deployed using hugo. For a full setup guide,
 1. Clone this repo:
     
     ```bash
-    git clone git@github.com:mkavanagh-23/blog.git
+    git clone --recurse-submodules git@github.com:mkavanagh-23/blog.git
     ```
 
-2. Initialize the theme submodule:
-
-    ```bash
-    git submodule update --init --recursive
-    ```
-
-3. Push new markdown file to automate build and deployment:
+2. Push new markdown file to automate build and deployment:
 
     ```bash
     git add .
