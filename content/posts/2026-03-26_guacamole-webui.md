@@ -3,7 +3,7 @@ title = "Remote GUI Access with Guacamole"
 description = 'Deploying a web-based shell via Guacamole with RDP for remote graphical access'
 date = 2026-03-26T17:50:24-04:00
 tags= ["linux", "servers", "tech", "web"]
-draft = true
+draft = false
 +++
 
 While I tend to prefer CLI and TUI's for most of my needs (especially on a server), it is sometimes helpful to have a remote graphical machine, accessible from anywhere. I've tried a few commercial services but they are both pricey and limited in features. Since these services utilize standard protocols, I decided to implement my own solution allowing me to browse the web and use discord securely from any machine with a web browser. It also serves as a perfect complement to my webserver when debugging over ssh is not ideal.
