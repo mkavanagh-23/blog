@@ -7,6 +7,7 @@ publishDir = "/var/www/blog/public"
 [params]
   mainSections = ["posts"]
   homeInfoParams = { Title = "Matthew Kavanagh", Content = "Adventures in technological exploration. Intermittent ramblings and guides from a tech nerd learning how to automate his life. Join me as I explore Linux, systems programming, microelectronics, and the latest tech news." }
+  favicon = "favicon.ico"
 
 [[params.socialIcons]]
   name = "github"
