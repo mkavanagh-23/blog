@@ -1,6 +1,6 @@
-baseURL = 'https://matthewkavanagh.us/'
+baseURL = 'https://matthewkavanagh.com/'
 languageCode = 'en-us'
-title = 'matthewkavanagh.us'
+title = 'matthewkavanagh.com'
 theme = 'PaperMod'
 publishDir = "/var/www/blog/public"
 
