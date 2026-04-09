@@ -15,11 +15,11 @@ publishDir = "/var/www/blog/public"
 
 [[params.socialIcons]]
   name = "linkedin"
-  url = "https://linkedin.com/in/mk-radio"
+  url = "https://linkedin.com/in/mattk-tech"
 
 [[params.socialIcons]]
   name = "email"
-  url = "mailto:matt@matthewkavanagh.us"
+  url = "mailto:matt@matthewkavanagh.com"
 
 [[params.socialIcons]]
   name = "rss"
