@@ -12,7 +12,7 @@ Please view my résumé embedded below.
 
 <!-- <iframe src="/docs/resume.pdf" width="150%" height="1020px" style="border:none;"></iframe> -->
 
-<div style="width: 80vw; margin-left: calc(50% - 40vw);">
+<div style="width: 60vw; margin-left: calc(50% - 30vw);">
   <iframe src="/docs/resume.pdf" style="width: 100%; height: 1020px; border: none;"></iframe>
 </div>
 
