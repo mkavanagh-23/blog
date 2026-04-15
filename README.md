@@ -1,6 +1,6 @@
 ## My Hugo Blog
 
-A personal tech blog built and auto-deployed using hugo. For a full setup guide, look [here](https://matthewkavanagh.us/posts/2026-03-23_hugo-automation/)
+A personal tech blog built and auto-deployed using hugo. For a full setup guide, look [here](https://matthewkavanagh.com/posts/2026-03-23_hugo-automation/)
 
 ### Setup
 1. Clone this repo:
