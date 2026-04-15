@@ -30,3 +30,6 @@ publishDir = "/var/www/blog/public"
     noClasses = true
     style = "nord"
     lineNos = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
