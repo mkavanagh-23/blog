@@ -1,6 +1,6 @@
 +++
-title = "Resume"
-description = 'My professional resume'
+title = "Résumé"
+description = 'My professional résumé'
 date = 2026-04-15
 draft = false
 
